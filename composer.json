@@ -1,11 +1,11 @@
 {
     "name": "xuzh/toastr_flash",
-    "description": "Easy flash notifications",
+    "description": "Bootstrap and toastr Easy flash notifications",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeffrey Way",
-            "email": "jeffrey@laracasts.com"
+            "name": "xuzh",
+            "email": "xzh@alpha-it-system.com"
         }
     ],
     "require": {
