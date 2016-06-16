@@ -4,7 +4,7 @@
 
 First, pull in the package through Composer.
 
-Run `composer require laracasts/flash`
+Run `composer require xuzh/toastr_flash`
 
 And then, if using Laravel 5, include the service provider within `config/app.php`.
 
